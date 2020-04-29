@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://s3-us-west-1.amazonaws.com/acceleration-assets-highway/ds-online-1/social-image.jpg" width="500">
+</p>
+
 # Codenation Data Science
 
 Esse repositório contém os notebooks que fiz para os desafios do programa AceleraDev Data Science, oferecido pela [Codenation](https://www.codenation.dev/). Todos os notebooks estão na pasta "Challenges" e são comentados com os passos que segui para alcançar a solução correta.
