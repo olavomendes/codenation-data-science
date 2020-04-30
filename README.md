@@ -8,6 +8,6 @@ Esse repositório contém os notebooks que fiz para os desafios do programa Acel
 
 * O primeiro desafio pode ser encontrado aqui: [Pré-processamento de dados em Python](https://github.com/olavomendes/codenation-data-science/blob/master/challenges/challenge_1.ipynb)
 * O segundo desafio pode ser encontrado aqui: [Conhecendo sua base de consumidores](https://github.com/olavomendes/codenation-data-science/blob/master/challenges/challenge_2.ipynb)
-
+* O terceiro desafio pode ser encontrado aqui: [Funções de probabilidade](https://github.com/olavomendes/codenation-data-science/blob/master/challenges/challenge_3.ipynb)
 
 Irei postar os próximos desafios a medida que eles forem disponibilizados na plataforma.
