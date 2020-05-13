@@ -4,7 +4,7 @@
 
 # Codenation Data Science
 
-Esse repositório contém os notebooks que fiz para os desafios do programa AceleraDev Data Science, oferecido pela [Codenation](https://www.codenation.dev/). Todos os notebooks estão na pasta "Challenges" e são comentados com os passos que segui para alcançar a solução correta.
+Esse repositório contém os notebooks utilizados nas resoluções dos desafios do programa AceleraDev Data Science, oferecido pela [Codenation](https://www.codenation.dev/). Os mesmos se encontram na pasta "Challenges" e são comentados com os passos que segui para alcançar a solução correta.
 
 * O primeiro desafio pode ser encontrado aqui: [Pré-processamento de dados em Python](https://github.com/olavomendes/codenation-data-science/blob/master/challenges/challenge_1.ipynb)
 * O segundo desafio pode ser encontrado aqui: [Conhecendo sua base de consumidores](https://github.com/olavomendes/codenation-data-science/blob/master/challenges/challenge_2.ipynb)
