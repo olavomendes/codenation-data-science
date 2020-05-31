@@ -11,5 +11,6 @@ Esse repositório contém os notebooks utilizados nas resoluções dos desafios 
 * O terceiro desafio pode ser encontrado aqui: [Funções de probabilidade](https://github.com/olavomendes/codenation-data-science/blob/master/challenges/challenge_3.ipynb)
 * O quarto desafio pode ser encontrado aqui: [Funções de probabilidade(Sim, o mesmo nome do anterior)](https://github.com/olavomendes/codenation-data-science/blob/master/challenges/challenge_4.ipynb)
 * O quinto desafio pode ser encontrado aqui: [Redução de dimensionalidade e seleção de variáveis](https://github.com/olavomendes/codenation-data-science/blob/master/challenges/challenge_5.ipynb)
+* O sexto desafio pode ser encontrado aqui: [Feature engineering](https://github.com/olavomendes/codenation-data-science/blob/master/challenges/challenge_6.ipynb)
 
 Irei postar os próximos desafios a medida que eles forem disponibilizados na plataforma.
